@@ -1,11 +1,12 @@
 import React from 'react'
 
 const page = () => {
-  return (
+return (
     <div>
-      message user page
+
+    message user page
     </div>
-  )
+)
 }
 
 export default page
